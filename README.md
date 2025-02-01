@@ -84,7 +84,10 @@ The APK will be available at: `build/app/outputs/flutter-apk/app-release.apk`
 5. Tap "Contact Farmer" to connect with a farmer
 
 ## Screenshots
-[Add screenshots of your app here]
+![farmers_market_app view](https://github.com/user-attachments/assets/cccc8215-e2d0-4499-97e6-24e9df6d707f)
+![farmers products](https://github.com/user-attachments/assets/874c91b0-cd85-4b2b-bbbb-f06f4a26411f)
+![customer interaction](https://github.com/user-attachments/assets/b0fbc22a-50bc-4031-8c75-9e61ffb9018c)
+
 
 ## Future Enhancements
 - User authentication
